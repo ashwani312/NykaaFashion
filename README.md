@@ -59,14 +59,14 @@ This E-Commerce Web Application is a feature-rich platform built with React, Nod
    - Start the backend server:
 
      ```bash
-     cd backend
+     cd api
      npm start
      ```
 
    - Start the frontend development server:
 
      ```bash
-     cd frontend
+     cd client
      npm start
      ```
 
