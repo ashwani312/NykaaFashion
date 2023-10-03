@@ -1,0 +1,63 @@
+.navbar {
+    height: max-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100vw;
+    -webkit-box-shadow: 3px 23px 31px -13px rgba(0, 0, 0, 0.45);
+    -moz-box-shadow: 3px 23px 31px -13px rgba(0, 0, 0, 0.45);
+    box-shadow: 3px 23px 31px -13px rgba(0, 0, 0, 0.45);
+
+    .wrapper {
+        display: flex;
+        padding: 3px 30px;
+        justify-content: space-between;
+        align-items: center;
+
+        .item {
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            font-weight: bold;
+            padding: 4px 0px;
+            transition: 0.2s all ease-in-out;
+
+           &:hover{
+               border-bottom: 2px solid rgb(253, 118, 133);
+               color: rgb(253, 118, 133);
+           } 
+            img {
+                height: 65px;
+            }
+        }
+
+        .left {
+            display: flex;
+            align-items: center;
+            gap: 25px;
+        }
+
+        .center {}
+
+        .right {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            cursor: pointer;
+
+            .inputboxsearch {
+                padding: 5px 10px;
+                border: none;
+                outline: none;
+            }
+
+            .icons {
+                display: flex;
+                gap: 20px;
+                color: #777;
+                position: relative;
+                cursor: pointer;
+            }
+        }
+    }
+}

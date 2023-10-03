@@ -1,0 +1,31 @@
+.trendingProducts {
+    margin: 100px 30px;
+  
+    .top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 50px;
+  
+      h1 {
+        flex: 2;
+        text-transform: capitalize;
+      }
+  
+      p{
+        flex:3;
+        color:gray
+      }
+    }
+
+
+    .bottom {
+        display: flex;
+        justify-content: center;
+        width: max-content;
+        gap: 30px;
+        transition: 1s all ease-in;
+    
+      }
+  
+  }

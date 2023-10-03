@@ -1,0 +1,30 @@
+.brand {
+  text-align: center;
+  width: 100vw;
+  height: 240vh;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  overflow-y: hidden;
+  margin-bottom: 40px;
+
+
+  h2 {
+    overflow-y: hidden;
+    margin-bottom: 30px;
+  }
+
+  .brandList {
+    padding: 20px 0px;
+    height: max-content;
+    overflow-y: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+  }
+}
