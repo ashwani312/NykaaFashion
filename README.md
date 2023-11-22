@@ -2,6 +2,10 @@
 
 This E-Commerce Web Application is a feature-rich platform built with React, Node.js, Express.js, and MongoDB. It offers users a seamless online shopping experience with a wide range of products. Users can search, filter products, and make purchases securely. The application incorporates Redux for efficient state management, ensuring smooth interaction and seamless browsing.
 
+## Screenshots
+
+![nykka (2)](https://github.com/ashwani312/NykaaFashion/assets/105036643/6e8761f7-f3eb-45ed-8c27-545e0e551221)
+
 ## Key Features
 
 - **Product Search:** Users can easily search for products based on keywords, ensuring a quick and convenient shopping experience.
@@ -71,11 +75,6 @@ This E-Commerce Web Application is a feature-rich platform built with React, Nod
      ```
 
    Access the application in your browser at `http://localhost:3000`.
-
-## Screenshots
-
-![nykka (2)](https://github.com/ashwani312/NykaaFashion/assets/105036643/6e8761f7-f3eb-45ed-8c27-545e0e551221)
-
 
 ## Contributing
 
