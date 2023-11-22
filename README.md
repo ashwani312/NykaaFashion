@@ -74,7 +74,8 @@ This E-Commerce Web Application is a feature-rich platform built with React, Nod
 
 ## Screenshots
 
-(Insert screenshots or GIFs demonstrating the application's functionality and design here.)
+![nykka (2)](https://github.com/ashwani312/NykaaFashion/assets/105036643/6e8761f7-f3eb-45ed-8c27-545e0e551221)
+
 
 ## Contributing
 
